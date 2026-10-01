@@ -1,0 +1,6 @@
+{
+  "name": "AetherScribe - Story Ghostwriter & Voice Narrator",
+  "description": "Upload any image to analyze mood and scene, ghostwrite vivid story openings, listen with expressive AI voice narration, and collaborate with an interactive AI muse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
